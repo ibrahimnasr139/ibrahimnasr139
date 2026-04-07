@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hi, I'm Ibrahim Nasr
 
 💻 **Backend Developer**
@@ -72,7 +69,5 @@ I love building real-world systems and writing clean, scalable code.
 
 ## 📫 Connect with Me
 
-* LinkedIn: (www.linkedin.com/in/ibrahem-nasr-6b28362a5)
-* GitHub: (https://github.com/ibrahimnasr139)
-
--->
+* LinkedIn: https://www.linkedin.com/in/ibrahem-nasr-6b28362a5
+* GitHub: https://github.com/ibrahimnasr139
