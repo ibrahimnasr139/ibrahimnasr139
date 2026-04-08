@@ -31,14 +31,12 @@ I love building real-world systems and writing clean, scalable code.
 ![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge\&logo=dotnet)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge\&logo=swagger)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
 
 ### 🗄 Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-
-### 🧰 Tools
-
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge\&logo=microsoftsqlserver)
 
 ### ☁️ Deployment
 
@@ -53,7 +51,9 @@ I love building real-world systems and writing clean, scalable code.
 * 🔧 Backend APIs using .NET
 * 🧠 Clean Architecture & Design Patterns
 
-### 🔥 Current Project
+---
+
+## 🔥 Current Project
 
 🚀 I'm currently building a real-world **SaaS LMS (Learning Management System)**, focusing on scalable backend architecture, clean design, and production-level features.
 
