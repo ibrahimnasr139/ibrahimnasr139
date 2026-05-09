@@ -104,14 +104,6 @@ The student-facing layer of the Waey SaaS platform — an AI-powered gamified le
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ibrahimnasr139&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimnasr139&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimnasr139&theme=tokyonight&hide_border=true)
 
 </div>
