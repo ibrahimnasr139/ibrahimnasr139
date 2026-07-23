@@ -19,6 +19,8 @@
 
 I'm a **Backend Engineer** specializing in **.NET** and scalable SaaS architecture. Currently studying Computer Science at **Menoufia University**, I've shipped production-grade systems serving real users — from multi-tenant LMS platforms to AI-powered learning portals.
 
+Currently interning as a **Backend AI Engineer at FlyRank AI**, working on AI-integrated backend systems.
+
 My engineering focus: **Clean Architecture**, **CQRS**, **real-time systems**, and backend infrastructure that scales.
 
 ```text
@@ -28,6 +30,14 @@ My engineering focus: **Clean Architecture**, **CQRS**, **real-time systems**, a
 ☁️  Infra          Docker · Railway · Bunny.net · Zoom OAuth
 🤖  AI/LLM         LLM Integration · AI Quiz Gen · Tutor Chat
 ```
+
+---
+
+## 💼 Experience
+
+**Backend AI Engineer — Intern** · [FlyRank AI](https://flyrank.com)
+*July 2026 — Present*
+Working on backend AI engineering, integrating AI/LLM capabilities into production systems.
 
 ---
 
@@ -59,7 +69,7 @@ My engineering focus: **Clean Architecture**, **CQRS**, **real-time systems**, a
 
 ## 🚀 Featured Projects
 
-### [Waey LMS Platform](https://www.waey.online) — Multi-Tenant SaaS LMS
+### [Nabra LMS Platform](https://www.waey.online) — Multi-Tenant SaaS LMS
 > *Production · 2025–2026*
 
 A production-grade multi-tenant SaaS Learning Management System where each tenant operates an independent branded learning platform via subdomain architecture.
@@ -80,7 +90,7 @@ A production-grade multi-tenant SaaS Learning Management System where each tenan
 
 ---
 
-### [Waey Student Portal](https://students.waey.online) — AI-Powered Gamified LMS
+### [Nabra Student Portal](https://students.waey.online) — AI-Powered Gamified LMS
 > *Production · 2025–2026*
 
 The student-facing layer of the Waey SaaS platform — an AI-powered gamified learning portal with real-time collaboration and full engagement engine.
@@ -112,6 +122,7 @@ The student-facing layer of the Waey SaaS platform — an AI-powered gamified le
 
 ## 🎯 What I'm Working On
 
+- 💼 Interning as a Backend AI Engineer @ FlyRank AI
 - 🏗 Scaling the Waey SaaS platform to serve more tenants
 - 📖 Deepening expertise in **System Design** and **Distributed Systems**
 - 🎓 **Computer Science** @ Menoufia University
